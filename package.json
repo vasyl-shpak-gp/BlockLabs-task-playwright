@@ -1,0 +1,21 @@
+{
+  "name": "BlockLabs-task-playwright",
+  "version": "1.0.0",
+  "description": "Test scenarios for sign in and redirection for buttons, for BlockLabs",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vasyl-shpak-gp/BlockLabs-task-playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vasyl-shpak-gp/BlockLabs-task-playwright/issues"
+  },
+  "homepage": "https://github.com/vasyl-shpak-gp/BlockLabs-task-playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.28.1"
+  }
+}
